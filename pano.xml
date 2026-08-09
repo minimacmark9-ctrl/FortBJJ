@@ -19,7 +19,7 @@
     <hotspots height="20" wordwrap="1" width="180">
       <label backgroundalpha="1" textcolor="0x000000" height="20" bordercolor="0x000000" textalpha="1" background="1" backgroundcolor="0xffffff" wordwrap="1" width="180" borderalpha="1" borderradius="1" enabled="1" border="1"/>
       <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="1" handcursor="1" borderalpha="1"/>
-      <hotspot tilt="-3.98" description="" url="{node2}" skinid="ht_node" target="1.4/-0.6/120.0" pan="-93.46" title="" id="Point01"/>
+      <hotspot tilt="-3.82" description="" url="{node2}" skinid="ht_node" target="9.6/-2.2/120.0" pan="-93.46" title="" id="Point01"/>
     </hotspots>
     <media/>
     <transition type="crossdissolve" zoomspeed="2" softedge="0" zoomout="0" blendcolor="0x000000" zoomfov="20" blendtime="1" zoomin="0" enabled="1" zoomoutpause="1"/>
