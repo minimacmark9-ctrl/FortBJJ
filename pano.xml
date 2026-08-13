@@ -72,8 +72,8 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label borderradius="1" textalpha="1" bordercolor="0x000000" textcolor="0x000000" backgroundcolor="0xffffff" background="1" enabled="1" borderalpha="1" width="180" height="20" wordwrap="1" backgroundalpha="1" border="1"/>
       <polystyle handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" mode="1" backgroundalpha="0.25098"/>
-      <hotspot tilt="-4.32" pan="-191.85" target="87.8/-3.7/83.7" id="Point02" skinid="ht_node" title="Hodnik" url="{node2}" description=""/>
-      <hotspot tilt="-11.64" pan="-1.15" target="42.8/-2.0/70.0" id="Point01" skinid="ht_node" title="" url="{node6}" description=""/>
+      <hotspot tilt="-4.43" pan="-191.85" target="74.5/-7.9/110.9" id="Point02" skinid="ht_node" title="Hodnik" url="{node2}" description=""/>
+      <hotspot tilt="-11.64" pan="-1.15" target="174.1/-0.9/98.3" id="Point01" skinid="ht_node" title="" url="{node6}" description=""/>
     </hotspots>
     <media/>
     <transition zoomspeed="2" zoomout="0" zoomoutpause="1" type="crossdissolve" blendcolor="0x000000" zoomin="0" enabled="1" zoomfov="20" softedge="0" blendtime="1"/>
